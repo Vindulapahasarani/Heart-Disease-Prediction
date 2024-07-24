@@ -1,6 +1,7 @@
 Heart Disease Prediction Using Machine Learning
 
 Introduction
+
 This repository contains a Jupyter Notebook for predicting heart disease using various machine learning algorithms. Heart disease is a significant global health concern, and early prediction can aid in timely intervention and treatment. This project aims to leverage machine learning techniques to analyze patient data and predict the likelihood of heart disease.
 
 Features
