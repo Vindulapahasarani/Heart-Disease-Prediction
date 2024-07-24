@@ -6,9 +6,13 @@ This repository contains a Jupyter Notebook for predicting heart disease using v
 
 Features
 Data Preprocessing: Handling missing values, feature scaling, and encoding categorical variables.
+
 Exploratory Data Analysis (EDA): Visualizing data distributions and relationships between features.
+
 Model Selection: Implementation and comparison of multiple machine learning models including Logistic Regression, Decision Trees, Random Forest, and Support Vector Machine (SVM).
+
 Model Evaluation: Assessing model performance using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+
 Hyperparameter Tuning: Optimizing model parameters for improved performance using GridSearchCV.
 
 Requirements
